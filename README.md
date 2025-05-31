@@ -1,4 +1,4 @@
-# Customer-Persona-Segmentation
+# Game-Customer-Persona-Segmentation
 Bu proje, bir oyun şirketinin satış verilerini kullanarak kullanıcıları demografik özelliklerine göre segmentlere ayırmayı ve bu segmentlerin şirkete sağlayabileceği ortalama geliri tahmin etmeyi amaçlamaktadır.
 
 ## Proje Amacı
