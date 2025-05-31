@@ -57,7 +57,7 @@ belirlenmiştir. Ayrıca yeni gelen kullanıcı profilleri (örneğin: `TUR_ANDR
 
 ##  Teşekkürler
 
-Bu proje [Miuul](https://www.miuul.com/) tarafından sunulan eğitim kapsamında gerçekleştirilmiştir.  
+Bu proje [Miuul](https://www.miuul.com/) tarafından sunulan Python for Data Science eğitim kapsamında final projesi olarak gerçekleştirilmiştir.  
 Veri bilimi öğrenme sürecime büyük katkı sağladı.
 
 
